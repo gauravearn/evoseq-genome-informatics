@@ -25,7 +25,7 @@ The repository includes a Makefile to facilitate some common tasks.
 
 `$ make doc`. Requires the [roxygen2](https://github.com/klutometis/roxygen) package.
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
